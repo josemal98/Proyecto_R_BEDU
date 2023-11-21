@@ -7,3 +7,7 @@ Este proyecto forma parte del módulo de *Programación y estadística con R - R
 * Cristina Basulto Ávila
 * Ricardo Iván Carpio Fragoso
 * Víctor Hugo Pérez Núñez
+
+## Descripción del proyecto 
+
+Este proyecto tiene como propósito el desarrollo de un modelo de Regresión Lineal Múltiple que establezca la fuerza y dirección de las relaciones entre la esperanza de vida y algunos factores económicos y de salud seleccionados. El resultado de este análisis pretende brinda información útil a instituciones de salud y política pública para la toma de decisiones relativas a intervenciones con impacto positivo en la esperanza de vida y bienestar de la población.
