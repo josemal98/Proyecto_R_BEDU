@@ -11,3 +11,9 @@ Este proyecto forma parte del módulo de *Programación y estadística con R - R
 ## Descripción del proyecto 
 
 Este proyecto tiene como propósito el desarrollo de un modelo de Regresión Lineal Múltiple que establezca la fuerza y dirección de las relaciones entre la esperanza de vida y algunos factores económicos y de salud seleccionados. El resultado de este análisis pretende brindar información útil a instituciones de salud y política pública para la toma de decisiones relativas a intervenciones con impacto positivo en la esperanza de vida y bienestar de la población.
+
+## Planteamiento del problema
+
+## Base de datos
+
+## Referencias
